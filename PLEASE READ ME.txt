@@ -1,0 +1,7 @@
+Please Import the ASP_CA.bacpac into mssql to run the project smoothly.
+
+User 1: username: johndoe
+	password: johndoe
+
+User 2: username: janedoe
+	password: janedoe
